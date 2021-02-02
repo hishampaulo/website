@@ -1,0 +1,16 @@
+html{
+    scroll-behavior: smooth;
+}
+
+#main-sec{
+    height: 100%;
+    background-image: url("../images/photo-4.jpg");
+    background-size: 100%;
+}
+
+#slide-down{
+    display: none;
+}
+#slide-down-comments{
+    display: none;
+}
